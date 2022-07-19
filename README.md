@@ -1,5 +1,4 @@
 # Smart-Helmet-for-Coal-Miners
-##About
 A classic model of smart helmet has been developed to assist miners
 working in the mining industry. Many dangerous events tend to occur in
 the mining industry that can lead to life-threatening injury or prove to be
