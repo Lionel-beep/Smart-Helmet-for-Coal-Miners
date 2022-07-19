@@ -18,3 +18,7 @@ of the mines through mail. A mobile application has been developed
 showcasing all the datas from the sensors transmitted wirelessly .
 Thus, our smart helmet prevents miners from suffering anyupcoming
 accidents.
+
+Demo Link : https://drive.google.com/file/d/1lmUIVs9o1fpMmNLMFdLtCaebMZpMPgAN/view?usp=sharing https://drive.google.com/file/d/1lmUIVs9o1fpMmNLMFdLtCaebMZpMPgAN/view?usp=sharing
+
+Project Images : https://drive.google.com/drive/folders/1OtpYF4kXn2m931jWz3n95n-FjriXh2mq?usp=sharing
